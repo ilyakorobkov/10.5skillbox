@@ -1,2 +1,9 @@
-# 10.5skillbox
-10.5 skillbox practice
+Сборка модуля с помощью setup.py
+
+```
+python setup.py build_ext --inplace
+```
+Запуск тестов
+```
+python test_vector_module.py
+```
